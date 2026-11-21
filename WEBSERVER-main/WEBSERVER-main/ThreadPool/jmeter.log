@@ -1,0 +1,36 @@
+2026-02-03 20:40:23,333 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-02-03 20:40:23,379 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.6.3\bin\user.properties
+2026-02-03 20:40:23,397 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.6.3\bin\system.properties
+2026-02-03 20:40:23,420 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-02-03 20:40:23,421 INFO o.a.j.JMeter: Version 5.6.3
+2026-02-03 20:40:23,421 INFO o.a.j.JMeter: java.version=24.0.2
+2026-02-03 20:40:23,421 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2026-02-03 20:40:23,421 INFO o.a.j.JMeter: os.name=Windows 11
+2026-02-03 20:40:23,421 INFO o.a.j.JMeter: os.arch=amd64
+2026-02-03 20:40:23,421 INFO o.a.j.JMeter: os.version=10.0
+2026-02-03 20:40:23,422 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-02-03 20:40:23,422 INFO o.a.j.JMeter: java.awt.headless=null
+2026-02-03 20:40:23,422 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-02-03 20:40:23,422 INFO o.a.j.JMeter: Available Processors =12
+2026-02-03 20:40:23,444 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-02-03 20:40:23,444 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-02-03 20:40:23,444 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.3
+2026-02-03 20:40:23,444 INFO o.a.j.JMeter: user.dir  =C:\Users\aarju\OneDrive\Desktop\WEBSERVER\ThreadPool
+2026-02-03 20:40:23,445 INFO o.a.j.JMeter: PWD       =C:\Users\aarju\OneDrive\Desktop\WEBSERVER\ThreadPool
+2026-02-03 20:40:23,447 INFO o.a.j.JMeter: IP: 192.168.29.159 Name: AarjuMehta FullName: AarjuMehta
+2026-02-03 20:40:23,475 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-02-03 20:40:24,229 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2026-02-03 20:42:29,037 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-02-03 20:42:29,039 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-02-03 20:42:29,040 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-02-03 20:42:29,041 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-02-03 20:46:32,708 INFO o.a.j.s.FileServer: Default base='C:\Users\aarju\OneDrive\Desktop\WEBSERVER\ThreadPool'
+2026-02-03 20:46:32,710 INFO o.a.j.s.FileServer: Set new base='C:\Users\aarju\OneDrive\Desktop\WEBSERVER\ThreadPool'
+2026-02-03 20:46:33,303 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-02-03 20:46:33,444 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-02-03 20:46:33,448 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-02-03 20:46:33,679 INFO o.a.j.g.a.Load: Loading file: C:\Users\aarju\OneDrive\Desktop\WEBSERVER\ThreadPool\Server.java
+2026-02-03 20:46:33,679 INFO o.a.j.s.FileServer: Set new base='C:\Users\aarju\OneDrive\Desktop\WEBSERVER\ThreadPool'
+2026-02-03 20:46:33,679 INFO o.a.j.s.SaveService: Loading file: C:\Users\aarju\OneDrive\Desktop\WEBSERVER\ThreadPool\Server.java
+2026-02-03 20:46:33,704 WARN o.a.j.g.a.Load: Error in XML format. org.xmlpull.v1.XmlPullParserException: only whitespace content allowed before start tag and not p (position: START_DOCUMENT seen p... @1:2) 
+2026-02-03 20:46:33,705 ERROR o.a.j.u.JMeterUtils: only whitespace content allowed before start tag and not p (position: START_DOCUMENT seen p... @1:2) 
